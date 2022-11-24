@@ -4,3 +4,6 @@ The image below shows how it works.
 
 
 ![image](https://user-images.githubusercontent.com/49729441/203681179-a9557159-cf88-4f3f-a41a-be1eaf00690b.png)
+
+
+You can also geberate a random alphanumeric string with your desired length. 
