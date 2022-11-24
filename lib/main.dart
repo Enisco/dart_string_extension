@@ -10,6 +10,7 @@ void main() {
   helloWorld = 'Hello world and my Neighbours'.toTitleCase;
   print(helloWorld);
 
-  String randomAlphaNumericNumber = generateRandomAlphaNumericString(45);
+  String randomAlphaNumericNumber =
+      generateRandomAlphaNumericString(45); //Put any desired string length here
   print(randomAlphaNumericNumber);
 }
