@@ -1,3 +1,4 @@
+
 void main() {
   String helloWorld = '';
   helloWorld = 'hello world And my neighbours'.toSentenceCase;
@@ -15,3 +16,4 @@ extension StringCasesExtension on String {
   String get toTitleCase =>
       split(" ").map((str) => str.toSentenceCase).join(" ");
 }
+
